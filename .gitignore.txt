@@ -1,0 +1,7 @@
+# Ignored files
+Data/
+.ipynb_checkpoints/
+Notebooks/
+*.tsv
+*.csv
+*.xlsx
